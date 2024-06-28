@@ -10,18 +10,31 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% include head-custom.html %}
+  <!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+  
+    <!-- Academicons -->
+	<link rel="stylesheet" href="assets/css/academicons.min.css"/>
+  <!-- Theme CSS -->  
+	<link id="theme-style" rel="stylesheet" href="assets/css/devresume.css">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <br>
+        <br>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -29,15 +42,46 @@
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
+        {% endif %} -->
+<!-- 
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
-        {% endif %}
+        {% endif %} -->
+        <p style="text-align:center;"> Doctoral Candidate<br> Computer Science, <br> New York University </p> 
+        <div class="containers">   
+              <div class="row text-center" id="contact-items">
+                <a style="padding-right:20px !important" style="padding-left:40px !important" href="mailto:muneeb.afzal@nyu.edu" target="_blank"><i class="fa fa-envelope-o fa-2x"></i></a>
+                <!-- <a style="padding-right:20px !important" href=""><i class="ai ai-cv ai-2x"></i></a> -->
+                <!-- <a style="padding-right:20px !important" href="https://scholar.google.ae/citations?user=6mJvLd4AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> -->
+                <a href="https://x.com/muneebafzal_1" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+              </div>
+        </div>
+        <!-- Email: shujaat [dot] mirza [at] nyu [dot] edu <br></p> -->
+        <!-- <div class="media flex-column flex-md-row align-items-center">
+          <div class="resume-contact text-center mb-0 mr-md-5">
+            <div>
+              <ul class="list-inline align-items-center mb-0">
+                <li class="list-inline-item equal-margin mb-2">
+                    <a class="resume-icon-link" href="https://twitter.com/" target="_blank">
+                      <i class="fab fa-twitter-square fa-2x" ></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item equal-margin mb-2">
+                    <a class="resume-icon-link" href="https://scholar.google.com/" target="_blank">
+                      <i class="ai ai-google-scholar ai-2x" data-ai-transform="down-4"></i>
+                    </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> -->
+
+        
+      
       </header>
       <section>
 
@@ -45,12 +89,22 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <!-- {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% endif %} -->
+        <!-- <p><small> Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
   </body>
 </html>

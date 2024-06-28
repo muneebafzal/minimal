@@ -2,122 +2,46 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+##### About Me
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am a PhD student at New York University where I am fortunate to be advised by [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses computer vision with a particular emphasis on foundational models, diffusion models, LLMs, medical imaging, and self-supervised learning.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+##### Select Publications
+* * *
 
-```
-The final element.
-```
+* FairCLIP: Harnessing Fairness in Vision-Language Learning.\\
+  Yan Luo*, Min Shi*, Muhammad Osama Khan*, **Muhammad Muneeb Afzal**, et al.. In CVPR, 2024.
+
+* Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.\\
+  **Muhammad Muneeb Afzal**, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
+
+* How Fair are Medical Imaging Foundation Models? (Best Paper Award).\\
+  Osama Khan, **Muhammad Muneeb Afzal**, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
+
+* FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.\\
+  Yan Luo*, Muhammad Osama Khan*, **Muhammad Muneeb Afzal**, et al.. In ECCV (In Submission), 2024.
+
+* A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.\\
+  **Muhammad Muneeb Afzal**, Osama Khan, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
+
+* Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.\\
+  Min Shi*, **Muhammad Muneeb Afzal** *, Hao Huang* et al.. In Nature Medicine (In Submission), 2024.
+
+* FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.\\
+  Yu Tian*, Congcong Wen*, Min Shi*, **Muhammad Muneeb Afzal**, et al.. In ECCV (In Submission), 2024.
+
+> <sup>*</sup>: indicates equal contribution.
+
+
+
+##### Previously
+* * * 
+Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi where my undergraduate thesis was on lane detection for autonomous vehicles. During high school, I represented the national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
+
+<!--
+<sub>Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
+-->
