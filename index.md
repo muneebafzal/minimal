@@ -14,25 +14,25 @@ I am a PhD student at New York University where I am fortunate to be advised by 
 * * *
 
 * FairCLIP: Harnessing Fairness in Vision-Language Learning.\\
-  Yan Luo*, Min Shi*, Muhammad Osama Khan*, **Muhammad Muneeb Afzal**, et al.. In CVPR, 2024.
+  Yan Luo*, Min Shi*, Muhammad Osama Khan*, *Muhammad Muneeb Afzal*, et al.. In CVPR, 2024.
 
 * Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.\\
-  **Muhammad Muneeb Afzal**, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
+  *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
 * How Fair are Medical Imaging Foundation Models? (Best Paper Award).\\
-  Osama Khan, **Muhammad Muneeb Afzal**, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
+  Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
 * FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.\\
-  Yan Luo*, Muhammad Osama Khan*, **Muhammad Muneeb Afzal**, et al.. In ECCV (In Submission), 2024.
+  Yan Luo*, Muhammad Osama Khan*, *Muhammad Muneeb Afzal*, et al.. In ECCV (In Submission), 2024.
 
 * A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.\\
-  **Muhammad Muneeb Afzal**, Osama Khan, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
+  *Muhammad Muneeb Afzal*, Osama Khan, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
 
 * Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.\\
-  Min Shi*, **Muhammad Muneeb Afzal** *, Hao Huang* et al.. In Nature Medicine (In Submission), 2024.
+  Min Shi*, *Muhammad Muneeb Afzal* *, Hao Huang* et al.. In Nature Medicine (In Submission), 2024.
 
 * FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.\\
-  Yu Tian*, Congcong Wen*, Min Shi*, **Muhammad Muneeb Afzal**, et al.. In ECCV (In Submission), 2024.
+  Yu Tian*, Congcong Wen*, Min Shi*, *Muhammad Muneeb Afzal*, et al.. In ECCV (In Submission), 2024.
 
 > <sup>*</sup>: indicates equal contribution.
 
