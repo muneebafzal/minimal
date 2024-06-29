@@ -38,20 +38,20 @@ B.S., Electrical Engineering, 2019 (GPA: 3.9/4.0)
 ##### Select Publications
 * * *
 
-* [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_FairCLIP_Harnessing_Fairness_in_Vision-Language_Learning_CVPR_2024_paper.pdf){:target="_blank"}<br>
+* FairCLIP: Harnessing Fairness in Vision-Language Learning.{:target="_blank"}<br>
   Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
 
 
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf){:target="_blank"}\\
+* Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.\\
   *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
-* [How Fair are Medical Imaging Foundation Models?](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf){:target="_blank"}  (Best Paper Award) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
+* How Fair are Medical Imaging Foundation Models?  (Best Paper Award) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
 * FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.\\
   Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al.. In ECCV (In Submission), 2024.
 
-* [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn){:target="_blank"}\\
+* A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.\\
   *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
 
 * Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.\\
