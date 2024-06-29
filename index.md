@@ -38,7 +38,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.9/4.0)
 ##### Select Publications
 * * *
 
-* FairCLIP: Harnessing Fairness in Vision-Language Learning.{:target="_blank"}<br>
+* FairCLIP: Harnessing Fairness in Vision-Language Learning.<br>
   Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
 
 
