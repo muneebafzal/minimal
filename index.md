@@ -21,15 +21,13 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
     <li>Computer Vision</li>
     <li>Fairness</li>
     <li>Medical Imaging</li>
-    <!-- <li>Responsible AI</li> -->
-    
-    
+    <li>Responsible AI</li>
   </ul>
   <ul style="list-style-type: disc;">
+    <li>Generative AI</li>
     <li>LLMs</li>
     <li>Foundational Models</li>
     <li>Diffusion Models</li>
-    <!-- <li>Self-Supervised Learning</li> -->
   </ul>
 </div>
 
