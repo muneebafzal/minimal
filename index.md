@@ -63,7 +63,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.9/4.0)
 * FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.\\
   Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al.. In Nature Machine Intelligence (In Review), 2024.
 
-* [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813) \\ 
+* [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
 Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
 
 
