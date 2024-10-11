@@ -9,7 +9,6 @@ I recently completed my PhD at New York University under the guidance of [Prof. 
 
 During my PhD, I had the opportunity to gain valuable research experience as a visiting researcher at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/).
 
-
 I welcome opportunities for collaboration and intellectual exchange. Whether you're interested in joint research, discussing ideas, or seeking advice on the PhD journey, please don't hesitate to get in touch.
 
 
