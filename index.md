@@ -5,7 +5,7 @@ layout: default
 ##### About Me
 * * *
 
-I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on computer vision with a particular emphasis on foundational models, diffusion models, LLMs, medical imaging, and self-supervised learning.
+I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on computer vision with a particular emphasis on fairness, foundational models, diffusion models, LLMs, medical imaging, and self-supervised learning.
 
 During my PhD, I gained valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience at [Bosch Center for AI](https://www.bosch-ai.com/).
 
@@ -18,14 +18,18 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
 
 <div style="display: flex; justify-content: space-between;">
   <ul style="list-style-type: disc;">
-    <li>Foundational Models</li>
-    <li>Diffusion Models</li>
-    <li>LLMs</li>
+    <li>Computer Vision</li>
+    <li>Fairness</li>
+    <li>Medical Imaging</li>
+    <!-- <li>Responsible AI</li> -->
+    
+    
   </ul>
   <ul style="list-style-type: disc;">
-    <li>Computer Vision</li>
-    <li>Medical Imaging</li>
-    <li>Self-Supervised Learning</li>
+    <li>LLMs</li>
+    <li>Foundational Models</li>
+    <li>Diffusion Models</li>
+    <!-- <li>Self-Supervised Learning</li> -->
   </ul>
 </div>
 
