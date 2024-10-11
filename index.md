@@ -7,6 +7,11 @@ layout: default
 
 I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on computer vision with a particular emphasis on foundational models, diffusion models, LLMs, medical imaging, and self-supervised learning.
 
+During my PhD, I gained valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience at (Bosch Center for AI)(https://www.bosch-ai.com/).
+
+I welcome opportunities for collaboration and intellectual exchange. Whether you're interested in joint research, discussing ideas, or seeking advice on the PhD journey, please don't hesitate to get in touch.
+
+
 ##### Research Interests
 * * *
 
