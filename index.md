@@ -53,7 +53,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.9/4.0)
 * [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
   *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
-* Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.\\
+* [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://muneebafzal.com/)\\
   Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Nature Machine Intelligence (In Review), 2024.
 
 * [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
@@ -62,7 +62,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.9/4.0)
 * [How Fair are Medical Imaging Foundation Models?  (Best Paper Award)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
-* FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.\\
+* [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://muneebafzal.com/)\\
   Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al.. In Nature Machine Intelligence (In Review), 2024.
 
 * [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
