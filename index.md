@@ -35,12 +35,12 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
 * * *
 
 **New York University**  
-PhD, Computer Science, 2024 (GPA: 3.94/4.00)      
+PhD, Computer Science, 2024 (GPA: 3.94/4.0)      
 *Major Awards:* Global PhD Fellowship; Best Paper Award <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">\\
 *Thesis:* Advancing Fair and Data-Efficient Deep Learning Models for Computer Vision
 
 **New York University Abu Dhabi**  
-B.S., Electrical Engineering, 2019 (GPA: 3.90/4.00)  
+B.S., Electrical Engineering, 2019 (GPA: 3.90/4.0)  
 *Study Abroad:* New York City, Shanghai, Thailand, Sydney  
 *Honor:* Awarded a full scholarship for the undergraduate degree
 ##### Select Publications
