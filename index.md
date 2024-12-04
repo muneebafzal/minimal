@@ -37,7 +37,7 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
 **New York University**  
 PhD, Computer Science, 2024 (GPA: 3.94)      
 *Major Awards:* Global PhD Fellowship; Best Paper Award <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">\\
-*Thesis:* Advancing Fair and Data-Efficient Deep Learning Models for Computer Vision
+<!-- *Thesis:* Advancing Fair and Data-Efficient Deep Learning Models for Computer Vision -->
 
 **New York University Abu Dhabi**  
 B.S., Electrical Engineering, 2019 (GPA: 3.90)  
@@ -59,7 +59,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 * [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
   *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
 
-* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
+* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award - Health Equity & Global Health)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
 * [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://muneebafzal.com/)\\
