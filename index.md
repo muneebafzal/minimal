@@ -43,6 +43,7 @@ PhD, Computer Science, 2024 (GPA: 3.94)
 B.S., Electrical Engineering, 2019 (GPA: 3.90)  
 *Study Abroad:* New York City, Shanghai, Thailand, Sydney  
 *Honor:* Awarded a full scholarship for the undergraduate degree
+
 ##### Select Publications
 * * *
 
@@ -72,7 +73,7 @@ Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad 
 
 ##### Previously
 * * * 
-Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi where my undergraduate thesis was on lane detection for autonomous vehicles. During high school, I represented the national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
+Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi. During high school, I represented the national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
 
 <!--
 <sub>Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
