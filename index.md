@@ -24,7 +24,7 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
     <!-- <li>Responsible AI</li> -->
   </ul>
   <ul style="list-style-type: disc;">
-    <li>Generative AI</li>
+    <li>Self-supervised Learning</li>
     <li>LLMs</li>
     <li>Foundational Models</li>
     <!-- <li>Diffusion Models</li> -->
