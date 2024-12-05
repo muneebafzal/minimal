@@ -21,13 +21,13 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
     <li>Computer Vision</li>
     <li>Fairness</li>
     <li>Medical Imaging</li>
-    <li>Responsible AI</li>
+    <!-- <li>Responsible AI</li> -->
   </ul>
   <ul style="list-style-type: disc;">
     <li>Generative AI</li>
     <li>LLMs</li>
     <li>Foundational Models</li>
-    <li>Diffusion Models</li>
+    <!-- <li>Diffusion Models</li> -->
   </ul>
 </div>
 
@@ -50,7 +50,6 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 * [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://arxiv.org/pdf/2403.19949)<br>
   Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
 
-
 * [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
   *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
@@ -68,7 +67,6 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 
 * [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
 Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
-
 
 
 ##### Previously
