@@ -71,7 +71,6 @@ Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad 
 ##### Previously
 * * * 
 Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi. During high school, I represented the national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
-
 <!--
 <sub> Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
 -->
