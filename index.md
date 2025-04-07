@@ -5,7 +5,7 @@ layout: default
 ##### About Me
 * * *
 
-I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
+I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
 
 During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/).
 
@@ -62,15 +62,15 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 * [How Fair are Medical Imaging Foundation Models?  (Best Paper Award - Health Equity & Global Health)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
-* [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://muneebafzal.com/)\\
-  Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al.. In Nature Machine Intelligence (In Review), 2024.
+* [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://www.science.org/doi/10.1126/sciadv.ads4593)\\
+  Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, Congcong Wen<sup>\*</sup>, , *Muhammad Muneeb Afzal*, et al. In Science Advances, 2025.
 
 * [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
 Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
 
 ##### Previously
 * * * 
-Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi. During high school, I represented the national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
+Before NYU, I obtained a B.S in Electrical Engineering from NYU Abu Dhabi. During high school, I represented Pakistan's national team in [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad){:target="_blank"}.
 <!--
 <sub> Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
 -->
