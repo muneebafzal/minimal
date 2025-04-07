@@ -63,7 +63,7 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
 * [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://www.science.org/doi/10.1126/sciadv.ads4593)\\
-  Yan Luo<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, Congcong Wen<sup>\*</sup>, , *Muhammad Muneeb Afzal*, et al. In Science Advances, 2025.
+  Yan Luo<sup>\*</sup>, Osama Khan<sup>\*</sup>, Congcong Wen<sup>\*</sup>, , *Muhammad Muneeb Afzal*, et al. In Science Advances, 2025.
 
 * [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
 Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
