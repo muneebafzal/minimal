@@ -5,7 +5,7 @@ layout: default
 ##### About Me
 * * *
 
-I am a Research Scientist at Meta, part of the Meta Recommendation Systems (MRS) organization, developing large-scale infrastructure that powers recommendation models across products such as Instagram and Facebook.
+I am a Research Scientist at Meta, working on the infrastructure of large-scale recommender systems that power personalized experiences across products such as Instagram and Facebook.
 
 I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
 
