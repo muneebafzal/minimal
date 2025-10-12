@@ -5,6 +5,8 @@ layout: default
 ##### About Me
 * * *
 
+I am a Research Scientist at Meta, part of the Meta Recommendation Systems (MRS) organization, developing large-scale infrastructure that powers recommendation models across products such as Instagram and Facebook.
+
 I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
 
 During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/).
