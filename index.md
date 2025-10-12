@@ -55,8 +55,8 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 * [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
   *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
-* [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://muneebafzal.com/)\\
-  Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Nature Machine Intelligence (In Review), 2024.
+* [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://tvst.arvojournals.org/article.aspx?articleid=2803200)\\
+  Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Translational Vision Science and Technology (TVST), 2025.
 
 * [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
   *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
