@@ -7,11 +7,11 @@ layout: default
 
 I am a Research Scientist at Meta, working on the infrastructure of large-scale recommender systems that power personalized experiences across products such as Instagram and Facebook.
 
-I recently completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
+Previusly, I completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
 
-During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/).
+During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/). My work has been featured at leading venues including CVPR, ECCV, MIDL, and Science Advances, earning the Health Equity & Global Health Best Paper Award at ML4H.
 
-I welcome opportunities for collaboration and intellectual exchange. Whether you're interested in joint research, discussing ideas, or seeking advice on the PhD journey, please don't hesitate to get in touch.
+I welcome opportunities for collaboration and intellectual exchange. Whether you're interested in joint research, discussing ideas or seeking advice on the PhD journey, please don't hesitate to get in touch.
 
 
 ##### Research Interests
