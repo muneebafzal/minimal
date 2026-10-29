@@ -5,13 +5,12 @@ layout: default
 ##### About Me
 * * *
 
-I am a Research Scientist at Meta, working on the infrastructure of large-scale recommender systems that power personalized experiences across products such as Instagram and Facebook.
+I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across products such as Instagram and Facebook.
 
 Previusly, I completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
 
 During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/). My work has been featured at leading venues including CVPR, ECCV, MIDL, and Science Advances, earning the Health Equity & Global Health Best Paper Award at ML4H.
 
-I welcome opportunities for collaboration and intellectual exchange. Whether you're interested in joint research, discussing ideas or seeking advice on the PhD journey, please don't hesitate to get in touch.
 
 
 ##### Research Interests
@@ -20,9 +19,9 @@ I welcome opportunities for collaboration and intellectual exchange. Whether you
 
 <div style="display: flex; justify-content: space-between;">
   <ul style="list-style-type: disc;">
-    <li>Computer Vision</li>
+    <li>Responsible AI</li>
     <li>Fairness</li>
-    <li>Medical Imaging</li>
+    <li>Computer Vision</li>
     <!-- <li>Responsible AI</li> -->
   </ul>
   <ul style="list-style-type: disc;">
@@ -52,11 +51,11 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 * [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://arxiv.org/pdf/2403.19949)<br>
   Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
 
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
-  *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
-
 * [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://tvst.arvojournals.org/article.aspx?articleid=2803200)\\
   Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Translational Vision Science and Technology (TVST), 2025.
+
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
+  *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
 
 * [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
   *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
