@@ -9,7 +9,7 @@ I am a Research Scientist at Meta, working on recommender systems that power per
 
 Previously, I completed my PhD at New York University, advised by [Dr. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, medical imaging and foundation models. 
 
-During my PhD, I collaborated with the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School on research work spanning vision-language learning and foundation models. I also worked on developing self-supervised learning methods at the [Bosch Center for AI](https://www.bosch.com/research/bcai/). 
+During my PhD, I collaborated with the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School on research projects spanning vision-language learning and foundation models. I also worked on developing self-supervised learning methods at the [Bosch Center for AI](https://www.bosch.com/research/bcai/). 
 
 My work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4H and Science Advances.
 
