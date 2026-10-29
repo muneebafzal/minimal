@@ -5,11 +5,13 @@ layout: default
 ##### About Me
 * * *
 
-I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across products such as Instagram and Facebook.
+I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across Instagram, Threads, and Facebook. My broader research interests center on making AI systems fairer, more trustworthy, and more reliable.
 
-Previusly, I completed my PhD at New York University under the guidance of [Prof. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, foundational models, medical imaging, and self-supervised learning.
+Previously, I completed my PhD at New York University, advised by [Dr. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, medical imaging and foundation models.
 
-During my PhD, I had the opportunity to gain valuable research experience at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School. Additionally, I acquired industry experience as a Machine Learning Research Scientist intern at the [Bosch Center for AI](https://www.bosch-ai.com/). My work has been featured at leading venues including CVPR, ECCV, MIDL, and Science Advances, earning the Health Equity & Global Health Best Paper Award at ML4H.
+During my PhD, I collaborated with the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School on research work spanning vision-language learning and foundation models. I also worked on developing self-supervised learning methods at the [Bosch Center for AI](https://www.bosch-ai.com/).
+
+My work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4H and Science Advances.
 
 
 
