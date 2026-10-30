@@ -6,7 +6,7 @@ layout: default
 * * *
 
 
-I am a machine learning researcher broadly interested in understanding where AI systems fail and developing methods to make them more trustworthy, fairer and more reliable. Currently, I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across Instagram and Facebook.
+I am a machine learning researcher interested in understanding where AI systems fail and developing methods to make them more trustworthy, fairer and more reliable. Currently, I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across Instagram and Facebook.
 
 I completed my PhD at New York University, advised by [Dr. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, medical imaging and foundation models. 
 
