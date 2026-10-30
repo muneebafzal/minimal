@@ -14,27 +14,6 @@ During my PhD, I collaborated with the [Harvard Ophthalmology AI Lab](https://op
 
 My research work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4H and Science Advances.
 
-
-
-<!-- ##### Research Interests
-* * *
-
-
-<div style="display: flex; justify-content: space-between;">
-  <ul style="list-style-type: disc;">
-    <li>Responsible AI</li>
-    <li>Fairness</li>
-    <li>Computer Vision</li>
-    <!-- <li>Responsible AI</li> -->
-  <!-- </ul>
-  <ul style="list-style-type: disc;">
-    <li>Self-supervised Learning</li>
-    <li>LLMs</li>
-    <li>Foundational Models</li>
-    <!-- <li>Diffusion Models</li> -->
-  <!-- </ul>
-</div> --> --> -->
-
 ##### Select Publications
 * * *
 
