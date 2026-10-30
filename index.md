@@ -41,7 +41,7 @@ My research work has been published at prestigious venues including CVPR, ECCV, 
 * [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://arxiv.org/pdf/2403.19949)<br>
   Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
 
-* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award - Health Equity & Global Health)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
+* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
   Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
 
 * [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
