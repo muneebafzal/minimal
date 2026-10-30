@@ -5,17 +5,18 @@ layout: default
 ##### About Me
 * * *
 
-I am a machine learning researcher broadly interested in making AI systems more trustworthy, fairer, and more reliable. Currently, I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across Instagram and Facebook.
+
+I am a machine learning researcher interested in understanding where AI systems fail and developing methods to make them more trustworthy, fairer and more reliable. Currently, I am a Research Scientist at Meta, working on recommender systems that power personalized experiences across Instagram and Facebook.
 
 I completed my PhD at New York University, advised by [Dr. Yi Fang](https://engineering.nyu.edu/faculty/yi-fang){:target="_blank"}. My research focuses on responsible AI and computer vision with a particular emphasis on fairness, medical imaging and foundation models. 
 
 During my PhD, I collaborated with the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/){:target="_blank"} at Harvard Medical School on research projects spanning vision-language learning and foundation models. I also worked on developing self-supervised learning methods at the [Bosch Center for AI](https://www.bosch.com/research/bcai/). 
 
-My work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4H and Science Advances.
+My research work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4H and Science Advances.
 
 
 
-##### Research Interests
+<!-- ##### Research Interests
 * * *
 
 
@@ -32,7 +33,33 @@ My work has been published at prestigious venues including CVPR, ECCV, MIDL, ML4
     <li>Foundational Models</li>
     <!-- <li>Diffusion Models</li> -->
   </ul>
-</div>
+</div> -->
+
+
+
+##### Select Publications
+* * *
+
+* [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://arxiv.org/pdf/2403.19949)<br>
+  Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
+
+* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award - Health Equity & Global Health)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
+  Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
+
+* [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
+Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
+
+* [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://www.science.org/doi/10.1126/sciadv.ads4593)\\
+  Yan Luo<sup>\*</sup>, Osama Khan<sup>\*</sup>, Congcong Wen<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In Science Advances, 2025.
+
+* [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://tvst.arvojournals.org/article.aspx?articleid=2803200)\\
+  Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Translational Vision Science and Technology (TVST), 2025.
+
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
+  *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
+
+* [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
+  *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
 
 ##### Education
 * * *
@@ -47,29 +74,6 @@ B.S., Electrical Engineering, 2019 (GPA: 3.90)
 *Study Abroad:* New York City, Shanghai, Thailand, Sydney  
 *Honor:* Awarded a full scholarship for the undergraduate degree
 
-##### Select Publications
-* * *
-
-* [FairCLIP: Harnessing Fairness in Vision-Language Learning.](https://arxiv.org/pdf/2403.19949)<br>
-  Yan Luo<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Osama Khan<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In CVPR, 2024.
-
-* [Equitable deep learning for diabetic retinopathy detection with fair adaptive scaling.](https://tvst.arvojournals.org/article.aspx?articleid=2803200)\\
-  Min Shi<sup>\*</sup>, *Muhammad Muneeb Afzal*<sup>\*</sup>, Hao Huang<sup>\*</sup> et al.. In Translational Vision Science and Technology (TVST), 2025.
-
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation.](https://proceedings.mlr.press/v225/afzal23a/afzal23a.pdf)\\
-  *Muhammad Muneeb Afzal*, Osama Khan, Shujaat Mirza. In Machine Learning for Health (ML4H), 2023.
-
-* [A Comprehensive Benchmark of Supervised and Self-supervised Pre-training on Multi-view Chest X-ray Classification.](https://openreview.net/pdf?id=YUMVjxdIqn)\\
-  *Muhammad Muneeb Afzal*<sup>\*</sup>, Osama Khan<sup>\*</sup>, Yi Fang. In Medical Imaging with Deep Learning (MIDL), 2024.
-
-* [How Fair are Medical Imaging Foundation Models?  (Best Paper Award - Health Equity & Global Health)](https://proceedings.mlr.press/v225/khan23a/khan23a.pdf) <img src="assets/img/award.png" alt="Award Icon" style="height: 2ex;">.\\
-  Osama Khan, *Muhammad Muneeb Afzal*, Shujaat Mirza, and Yi Fang. In Machine Learning for Health (ML4H), 2023.
-
-* [FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation.](https://www.science.org/doi/10.1126/sciadv.ads4593)\\
-  Yan Luo<sup>\*</sup>, Osama Khan<sup>\*</sup>, Congcong Wen<sup>\*</sup>, *Muhammad Muneeb Afzal*, et al. In Science Advances, 2025.
-
-* [FairDomain: Fairness in Cross-Domain Medical Image Classification and Segmentation.](https://arxiv.org/pdf/2407.08813)\\
-Yu Tian<sup>\*</sup>, Congcong Wen<sup>\*</sup>, Min Shi<sup>\*</sup>, Muhammad Muneeb Afzal, et al.. In ECCV, 2024.
 
 ##### Previously
 * * * 
